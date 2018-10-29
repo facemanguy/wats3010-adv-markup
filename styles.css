@@ -18,3 +18,17 @@ nav ul li{
     font-weight: bold;
     color: #4e4a52;
 }
+
+.bio-photo{
+    float: left;
+    background-color: #4a314d;
+    padding: 20px;
+    color: white;
+    border: ridge #1a090d;
+    margin: 1rem;
+}
+
+.bio-photo img{
+    text-align: center;
+    padding: 0em 2em 0em 6em;
+}
