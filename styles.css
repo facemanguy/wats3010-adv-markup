@@ -30,5 +30,18 @@ nav ul li{
 
 .bio-photo img{
     text-align: center;
-    padding: 0em 2em 0em 6em;
+    width: 100%;
+    height: auto;
+}
+
+#sidebar{
+    float: right;
+    width: 25%;
+    background-color: #a8ba9a;
+    margin: 2rem;
+    padding: 1rem;
+}
+
+dt{
+    font-weight: 600;
 }
