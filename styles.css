@@ -22,12 +22,18 @@ nav ul li{
     display: inline;
     padding: 1rem;
     background-color: #ace894;
+    margin-right: 10px;
 }
 
 a{
     text-decoration: none;
-    color: #a38e30;
+    color: #b99e26;
     text-shadow: 1px 1px 1px #5c5226;
+}
+
+a:hover{
+    color: #f3c706;
+    font-weight: 500;
 }
 
 h1, h2{
@@ -88,4 +94,13 @@ dt{
     list-style-type: none;
     background-color: #6b6570;
     line-height: 1.6;
+}
+.copyright{
+    margin-left: 2rem;
+}
+
+.bibliography li{
+    list-style-type: disc;
+    display: inline;
+    padding-right: 10px;
 }
