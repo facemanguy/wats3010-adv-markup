@@ -17,6 +17,8 @@ nav{
     margin: 2rem;
     padding: 1rem;
     background-color: #4a314d;
+    border: #1a090d solid;
+    border-radius: 1rem;
 }
 
 nav ul li{
@@ -114,4 +116,8 @@ dt{
     list-style-type: disc;
     display: inline;
     padding-right: 10px;
+}
+
+tr:nth-child(odd){
+    background-color: #98b97f;
 }
