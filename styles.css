@@ -15,6 +15,8 @@ body{
 
 nav{
     margin: 2rem;
+    padding: 1rem;
+    background-color: #4a314d;
 }
 
 nav ul li{
@@ -90,10 +92,19 @@ dt{
     padding: 2rem;
 }
 
+#content{
+    margin: 1rem;
+    padding: 1rem;
+}
+
 .poem{
     list-style-type: none;
-    background-color: #6b6570;
-    line-height: 1.6;
+    background-color: #4a314d;
+    line-height: 1.8;
+    font-size: 1.6rem;
+    padding: 2rem;
+    width: 65vw;
+    text-align: center;
 }
 .copyright{
     margin-left: 2rem;
